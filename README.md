@@ -31,7 +31,8 @@ Python Client.py
 ```
 <br>
 3. Now Enter a nickname and start your chatting. 
-4. Admin has the right to kick(remove user from chat) and ban(remove permanently) from the chat room
+4. <br>
+5. Admin has the right to kick(remove user from chat) and ban(remove permanently) from the chat room
 
 <hr>
 

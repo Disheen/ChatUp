@@ -11,8 +11,7 @@ This is a basic Python-based Secure Chat room. The project is entirely based on 
 
 #### 👉 Sockets
 <b> Sockets </b> and the socket API are used to send messages across a network. They provide a form of inter-process communication (IPC). The network can be a logical, local network to the computer, or one that’s physically connected to an external network, with its own connections to other networks. The obvious example is the Internet, which you connect to via your ISP. <br><br>
-<img align="center" height=300px src=https://github.com/IamLucif3r/Chat-On/blob/main/assets/Python-Sockets-Tutorial_Watermarked.webp> <br>
-Image Credit:[Real Python](https://realpython.com/python-sockets/)
+
 
 #### 👉 TCP Socket
 In the diagram below, given the sequence of socket API calls and data flow for TCP:
@@ -31,6 +30,7 @@ Python Server.py
 Python Client.py
 ```
 <br>
+<<<<<<< HEAD:docs/index.md
 3. Now Enter a nickname and start chatting. 
 
 <hr>
@@ -41,11 +41,19 @@ This is a demo video of the Working of this project.
 <br><br>
 
 ![](https://github.com/IamLucif3r/Chat-On/blob/main/assets/2021-05-21-09-25-56.gif)
+=======
+3. Now Enter a nickname and start your chatting. 
+<br>
+5. Admin has the right to kick(remove user from chat) and ban(remove permanently) from the chat room
+>>>>>>> c491a6e6fbc540e992b40783b7ecf0ba4821301e:README.md
 
 <hr>
 
-## Contribution
-👉 You're welcome to contribute in this project. Make a new branch, Commit your changes and send me a Pull Request. I'll merge it in the main branch ✌
 
+<<<<<<< HEAD:docs/index.md
 ## Contact
 📬 Contact with me via email: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
+=======
+<hr>
+
+>>>>>>> c491a6e6fbc540e992b40783b7ecf0ba4821301e:README.md

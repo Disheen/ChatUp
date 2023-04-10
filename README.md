@@ -11,8 +11,7 @@ This is an advanced Python-based Secure Chat room. The project is entirely based
 
 #### 👉 Sockets
 <b> Sockets </b> and the socket API are used to send messages across a network. They provide a form of inter-process communication (IPC). The network can be a logical, local network to the computer, or one that’s physically connected to an external network, with its own connections to other networks. The obvious example is the Internet, which you connect to via your ISP. <br><br>
-<img align="center" height=300px src=https://github.com/IamLucif3r/Chat-On/blob/main/assets/Python-Sockets-Tutorial_Watermarked.webp> <br>
-Image Credit:[Real Python](https://realpython.com/python-sockets/)
+
 
 #### 👉 TCP Socket
 In the diagram below, given the sequence of socket API calls and data flow for TCP:
@@ -32,30 +31,10 @@ Python Client.py
 ```
 <br>
 3. Now Enter a nickname and start your chatting. 
-
-
-## v1.2 Updates
-- The version 1.2 supports the Admin Controls. The admin has certain controls over the chat room.
-- The enhanced features include
-  - <b>Kick Feature</b> : Admin can kick anyone from the Chat Room.
-  - <b>Ban Feature</b> : Admin can ban certain members from re-joining the Chat Room. These names are added in a List.
-- Minor Bug Fixes.
+4. Admin has the right to kick(remove user from chat) and ban(remove permanently) from the chat room
 
 <hr>
 
-## Demo-Video 📹
-<br>
-This is a demo video of the Working of this project.
-<br><br>
-
-![](https://github.com/IamLucif3r/Chat-On/blob/main/assets/2021-05-22-15-10-08.gif)
 
 <hr>
 
-## Contribution
-👉 You're welcome to contribute in this project. Make a new branch, Commit your changes and send me a Pull Request. I'll merge it in the main branch ✌
-
-[EduardoJTR](https://github.com/EduardoJTR) : Added Menu System
-
-## Contact
-📬 Contact with me via email: [sanmol016@gmail.com](mailto:sanmol016@gmail.com)
